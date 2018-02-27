@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\xml_project.Properties.Resources.resources
+obj\Debug\xml project.csproj.GenerateResource.Cache
+obj\Debug\xml_project.Form1.resources
+bin\Debug\xml project.exe
+bin\Debug\xml project.pdb
+obj\Debug\xml project.exe
+obj\Debug\xml project.pdb
+obj\Debug\xml_project.Form2.resources
+obj\Debug\xml_project.Form3.resources

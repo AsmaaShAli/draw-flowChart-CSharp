@@ -1,0 +1,4 @@
+F:\oop project\utf-8''xml project111\xml project\xml project\obj\Debug\xml project.exe
+F:\oop project\utf-8''xml project111\xml project\xml project\obj\Debug\xml project.pdb
+F:\اسماء\Asmaa\faculty\second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\xml project.exe
+F:\اسماء\Asmaa\faculty\second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\xml project.pdb

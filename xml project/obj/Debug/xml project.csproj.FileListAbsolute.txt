@@ -1,0 +1,12 @@
+N:\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\xml project.exe
+N:\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\xml project.pdb
+F:\STUFF\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\xml project.exe
+F:\STUFF\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\xml project.pdb
+F:\STUFF\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\bin\Debug\xml project.exe
+F:\STUFF\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\bin\Debug\xml project.pdb
+F:\STUFF\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\ResolveAssemblyReference.cache
+F:\STUFF\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\xml_project.Form1.resources
+F:\STUFF\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\xml_project.Form2.resources
+F:\STUFF\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\xml_project.Form3.resources
+F:\STUFF\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\xml_project.Properties.Resources.resources
+F:\STUFF\اسماء\Asmaa\faculty\2_second year\object oriented project\oop final project. open-minded team\xml project\obj\Debug\xml project.csproj.GenerateResource.Cache
